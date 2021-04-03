@@ -1,11 +1,9 @@
 ![Saha Banner](https://github.com/saha0073/saha0073/blob/main/a.jfif)
-<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Subho</h2>
-
 
 <h1 align="center">Hi there! 👋 ‹</h1>
-<h3 align="center">Full-Stack Developer from India</h3>
+<h3 align="center">I'm Subho</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavreddy-dev" alt="abhinavreddy-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saha0073" alt="saha0073" /> </p>
 <!-- ## 👋 &nbsp;Hey there! I'm Subho -->
 
 ### 👨🏻‍💻 &nbsp;About Me
