@@ -8,12 +8,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 I'm a Data Scientist, ** 3+ Years of Experience in Data 📊, I analyze data, build, train and deploy Machine Learning model **
+- 🌟 I'm a Data Scientist, **3+ Years of Experience in Data 📊, I analyze data, build, train and deploy Machine Learning model **
 - 📌 Skills: Expertise in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) techniques. Proficient in Python, Tensorflow, Pytorch, Scikit-learn, SQL, PySpark, JavaScript, AWS.
-- 🎓 I hold 2 Masters, ** one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
-- 🌱 Research: Published 5 research papers, ** 90+ citations in Google Scholar**
+- 🎓 I hold 2 Masters, **one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
+- 🌱 Research: Published 5 research papers, **90+ citations in Google Scholar**
 - 🥇 Academics: Secured percentile score of 99.2 in the IITJEE exam and admitted into IIT Kharagpur (Top 10 of India)
-- 📧 You can connect me on ** saha0073@umn.edu ** 
+- 📧 You can connect me on **saha0073@umn.edu ** 
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
