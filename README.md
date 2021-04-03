@@ -1,4 +1,4 @@
-![Saha Banner](https://github.com/saha0073/saha0073/blob/main/a.jfif)
+<!--![Saha Banner](https://github.com/saha0073/saha0073/blob/main/a.jfif)-->
 
 <h1 align="center">Hi there! 👋 ‹</h1>
 <h3 align="center">I'm Subho</h3>
