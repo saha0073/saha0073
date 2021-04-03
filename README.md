@@ -3,26 +3,23 @@
 <h1 align="center">Hi there! 👋 ‹</h1>
 <h3 align="center">I'm Subho</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saha0073" alt="saha0073" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=saha0073" alt="saha0073" /> </p>-->
 <!-- ## 👋 &nbsp;Hey there! I'm Subho -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🤖 &nbsp;I am a Data Scientist, I analyze data, build, train and deploy Machine Learning / Deep Learning models.\
-☁️ I am an AWS Certified Machine Learning Engineer & Cloud Practitioner 🧠.\
-📊 Tableau Certified Desktop Specialist 📈.\
-🧑🏻‍🎓 &nbsp;I hold a Masters degree in Business Analytics from The University of Texas at Dallas.\
-   🌟 Annie Laurie Bass Scholarship recipient 🥇.\
-   ✨ JSOM Academic Honors - Scholar of Recognition 🎓.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Deep Learning, and Cloud Architecture.\
-📷 &nbsp;In my free time, I love to explore new places and do some photography.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting / Project coloboration / volunteering, or just for some interesting discussion about Data Science.\
-✉️ &nbsp;You can shoot me an email at arjunsm2020@gmail.com! I'll try to respond as soon as I can.\
+- 🌟 I'm a Data Scientist, **3+ Years of Experience in Data 📊, I analyze data, build, train and deploy Machine Learning model **
+- 📌 Skills: Expertise in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) techniques. Proficient in Python, Tensorflow, Pytorch, Scikit-learn, SQL, PySpark, JavaScript, AWS.
+- 🎓 I hold 2 Masters, **one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
+- 🌱 Research: Published 5 research papers, **90+ citations in Google Scholar**
+- 🥇 Academics: Secured percentile score of 99.2 in the IITJEE exam and admitted into IIT Kharagpur (Top 10 of India)
+- 📧 You can connect me on Linkedin **https://www.linkedin.com/in/subhodip-saha-li/** 
+
+<p align="left"> 
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/subhodip-saha-li/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhinav-reddy-6397b9156" height="30" width="40" /></a>
 
 <img alt="Night Coding" src="https://github.com/arjuns2020/arjuns2020/blob/main/Night-Coding.gif" align="right"/>
-
-
- 
 
 ### 🛠 &nbsp;Tech Stack
 
