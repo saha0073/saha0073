@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 I'm a Data Scientist, **3+ Years of Experience in Data 📊, I analyze data, build, train and deploy Machine Learning model **
+- 🌟 I'm a Data Scientist 📊, **3+ Years of Experience in Data, I analyze data, build, train and deploy Machine Learning model **
 - 📌 Skills: Expertise in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) techniques. Proficient in Python, Tensorflow, Pytorch, Scikit-learn, SQL, PySpark, JavaScript, AWS.
 - 🎓 I hold 2 Masters, **one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
 - 🌱 Research: Published 5 research papers, **90+ citations in Google Scholar**
