@@ -1,7 +1,7 @@
 <!--![Saha Banner](https://github.com/saha0073/saha0073/blob/main/a.jfif)-->
 
 <h1 align="center">Hi there! 👋 ‹</h1>
-<h3 align="center">I'm Subho, welcome to my github! </h3>
+<h3 align="center">I'm Subho, Welcome to my github! </h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=saha0073" alt="saha0073" /> </p>-->
 <!-- ## 👋 &nbsp;Hey there! I'm Subho -->
@@ -40,7 +40,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![jp](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
