@@ -8,18 +8,18 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 I'm a Data Scientist, **3+ Years of Experience in Data 📊, I analyze data, build, train and deploy Machine Learning model **
+- 🌟 I'm a Data Scientist, ** 3+ Years of Experience in Data 📊, I analyze data, build, train and deploy Machine Learning model **
 - 📌 Skills: Expertise in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) techniques. Proficient in Python, Tensorflow, Pytorch, Scikit-learn, SQL, PySpark, JavaScript, AWS.
-- 🎓 I hold 2 Masters, **one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
-- 🌱 Research: Published 5 research papers, **90+ citations in Google Scholar**
+- 🎓 I hold 2 Masters, ** one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
+- 🌱 Research: Published 5 research papers, ** 90+ citations in Google Scholar**
 - 🥇 Academics: Secured percentile score of 99.2 in the IITJEE exam and admitted into IIT Kharagpur (Top 10 of India)
-- 📧 You can connect me on Linkedin **https://www.linkedin.com/in/subhodip-saha-li/** 
+- 📧 You can connect me on ** saha0073@umn.edu ** 
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/subhodip-saha-li/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhinav-reddy-6397b9156" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subhodip-saha-li/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhodip-saha-li" height="30" width="40" /></a>
 
-<img alt="Night Coding" src="https://github.com/arjuns2020/arjuns2020/blob/main/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/saha0073/saha0073/blob/main/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,7 +30,6 @@
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;\
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![docker](https://aleen42.github.io/badges/src/docker.svg)
 ![git](https://aleen42.github.io/badges/src/github.svg)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
