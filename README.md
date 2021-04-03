@@ -15,8 +15,8 @@
 - 🥇 Achievement: Secured percentile score of 99.2 in the IITJEE exam and admitted into IIT Kharagpur (Top 10 of India)
 - 📧 You can reach out to me at **saha0073@umn.edu** 
 
-🤝🏻 <p align="left"> 
-<h3 align="left">Connect with me:</h3>
+
+### 🤝🏻 &nbsp;Connect with me: 
 <a href="https://www.linkedin.com/in/subhodip-saha-li/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhodip-saha-li" height="30" width="40" /></a>
 
 <img alt="Night Coding" src="https://github.com/saha0073/saha0073/blob/main/Night-Coding.gif" align="right"/>
