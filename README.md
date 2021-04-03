@@ -10,9 +10,9 @@
 
 - 🌟 I'm a Data Scientist 📊, **3+ Years of Experience in Data 📈, I analyze data, build, train and deploy Machine Learning model**
 - 📌 Skills: Expertise in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) techniques. Proficient in Python, Tensorflow, Pytorch, Scikit-learn, SQL, PySpark, JavaScript, AWS.
-- 🎓 I hold 2 Masters, **one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
+- 🎓 Academics: I hold 2 Masters, **one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
 - 🌱 Research: **Published 5 research papers, 90+ citations in Google Scholar**
-- 🥇 Academics: Secured percentile score of 99.2 in the IITJEE exam and admitted into IIT Kharagpur (Top 10 of India)
+- 🥇 Achievement: Secured percentile score of 99.2 in the IITJEE exam and admitted into IIT Kharagpur (Top 10 of India)
 - 📧 You can reach out to me at **saha0073@umn.edu** 
 
 <p align="left"> 
@@ -53,9 +53,3 @@
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">  
-<a href="https://linkedin.com/in/arjuns2020"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arjunsm2020@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
