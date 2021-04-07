@@ -43,12 +43,12 @@
 ![jp](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-<!--
+
 <p align="center">
 <a href="https://github.com/saha0073">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saha0073&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saha0073&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--->
+
 
