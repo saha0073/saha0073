@@ -12,7 +12,7 @@
 - 🥇 Data Science Accomplishments: Conducted research in Data Science and published multiple papers, built end-to-end industrial AI application that reduce manual inspection costs.
 - 📌 Skills: Expertise in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) techniques. Proficient in Python, Tensorflow, Pytorch, Scikit-learn, SQL, PySpark, JavaScript, AWS.
 - 🎓 Academics: I hold 2 Masters, **one from The University of Minnesota, and another from IIT Kharagpur (Top 10 of India)**
-- 🌱 Research: **Published 5 research papers, 90+ citations in Google Scholar**
+- 🌱 Research: **Published 5 research papers, 100+ citations in Google Scholar**
 - 🥇 Achievement: Secured percentile score of 99.2 in the IITJEE exam and admitted into IIT Kharagpur (Top 10 of India)
 - 📧 You can reach out to me through email at **saha0073@umn.edu** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
 
