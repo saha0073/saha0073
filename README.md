@@ -24,7 +24,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![JS](https://badges.aleen42.com/src/javascript.svg)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;\
