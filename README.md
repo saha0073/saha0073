@@ -27,7 +27,7 @@
 ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws)&nbsp;
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![JS](https://badges.aleen42.com/src/javascript.svg)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;\
+![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity)&nbsp;\
 ![keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=whit)&nbsp;
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey.svg?&style=flat&logo=pytorch&logoColor=black)&nbsp;
