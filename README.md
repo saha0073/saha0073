@@ -23,7 +23,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws)&nbsp;
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![JS](https://badges.aleen42.com/src/javascript.svg)&nbsp;
