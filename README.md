@@ -28,7 +28,7 @@
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![JS](https://badges.aleen42.com/src/javascript.svg)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity)&nbsp;\
-![keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras)&nbsp;
+![keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=flat&logo=scikitlearn&logoColor=white)&nbsp;
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;\
