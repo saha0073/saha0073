@@ -30,7 +30,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity)&nbsp;\
 ![keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=pytorch)&nbsp;
-![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;\
+![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql)&nbsp;\
 ![Oculus](https://img.shields.io/badge/Oculus-black?&style=flat&logo=oculus&logoColor=#1C1E20)&nbsp;
 ![Android](https://img.shields.io/badge/Android-lightgrey?&style=flat&logo=android&logoColor=#3DDC84)&nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=java&logoColor=white)&nbsp;
