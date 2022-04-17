@@ -28,9 +28,11 @@
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![JS](https://badges.aleen42.com/src/javascript.svg)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;\
+
 ![keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=whit)&nbsp;
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey.svg?&style=flat&logo=pytorch&logoColor=black)&nbsp;
+
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;\
 ![docker](https://aleen42.github.io/badges/src/docker.svg)
 ![git](https://aleen42.github.io/badges/src/github.svg)
@@ -42,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![jp](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+![jp](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
