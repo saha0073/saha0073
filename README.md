@@ -28,11 +28,9 @@
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![JS](https://badges.aleen42.com/src/javascript.svg)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;\
-
 ![keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=whit)&nbsp;
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey.svg?&style=flat&logo=pytorch&logoColor=black)&nbsp;
-
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;\
 ![docker](https://aleen42.github.io/badges/src/docker.svg)
 ![git](https://aleen42.github.io/badges/src/github.svg)
