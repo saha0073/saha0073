@@ -8,12 +8,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 I'm a Data Scientist 📊, **3+ Years of Experience in Data Science 📈, I analyze data, build, train and deploy Machine Learning model**
-- 🥇 Data Science Accomplishments: Conducted research in Data Science and published multiple papers, built end-to-end industrial AI application that reduce manual inspection costs.
-- 📌 Skills: Expertise in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) techniques. Proficient in Python, Tensorflow, Pytorch, Scikit-learn, SQL, PySpark, JavaScript, AWS.
-- 🎓 Academics: I hold 2 Masters, **one from The University of Minnesota, and another from IIT Kharagpur**
-- 🌱 Research: **Published 5 research papers, 100+ citations in Google Scholar**
-- 🥇 Achievement: Secured percentile score of 99.2 in the IITJEE exam and admitted into IIT Kharagpur
+- 🌟 Machine Learning Engineer, Co-Founder, 3+ years of experience in Data Science, 2+ years of US work experience, and building Ai+XR applications one at a time 🚀
+- 🥇 Software Engineering Accomplishments: Developed end-to-end industrial Ai applications that reduce manual inspection costs in the factory. Cofounded startup as technical lead and built backend architecture & Ai algorithm
+- 📌 Skills: Expertise in Machine Learning, Deep Learning, Computer Vision, Augmented Reality (AR), and Virtual Reality (VR). Proficient in Python, Tensorflow, AWS, Unity, C#, and Javascript
+- 🌱 Research: Published 5 research papers, 100+ citations in Google Scholar 🏅
+- 🥇 Achievement: Completed Master's degree from top US university, secured a percentile score of 99.2 in the IITJEE exam and was admitted into IIT Kharagpur
 - 📧 You can reach out to me through email at **saha0073@umn.edu** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
 
 
