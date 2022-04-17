@@ -12,7 +12,7 @@
 - 🥇 **Software Engineering Accomplishments**: Developed end-to-end industrial Ai applications that reduce manual inspection costs in the factory. Cofounded startup as technical lead and built backend architecture & Ai algorithm
 - 🥇 **Achievements**: Completed Master's degree from **top US university**, secured a **percentile score of 99.2 in the IITJEE exam** and was admitted into IIT Kharagpur
 - 📌 **Skills**: Expertise in Machine Learning, Deep Learning, Computer Vision, Augmented Reality (AR), and Virtual Reality (VR). Proficient in Python, Tensorflow, AWS, Unity, C#, and Javascript
-- 🌱 **Research**: Published 5 research papers, 100+ citations in Google Scholar 🏅
+- 🌱 **Research**: Published 5 research papers, **100+ citations in Google Scholar** 🏅
 - 📧 You can reach out to me through email at **saha0073@umn.edu** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
 
 
@@ -25,7 +25,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;\
+![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)\
 ![keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=whit)&nbsp;
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
