@@ -33,7 +33,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=flat&logo=scikitlearn&logoColor=white)&nbsp;
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;\
 ![Oculus](https://img.shields.io/badge/Oculus-black?&style=flat&logo=oculus&logoColor=#1C1E20)&nbsp;
-![Android](https://img.shields.io/badge/Android-#3DDC84?&style=flat&logo=android)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?&style=flat&logo=android)&nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=java&logoColor=white)&nbsp;
 ![docker](https://aleen42.github.io/badges/src/docker.svg)
 ![git](https://aleen42.github.io/badges/src/github.svg)
