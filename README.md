@@ -29,21 +29,21 @@
 ![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++%20-00599C?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![JS](https://badges.aleen42.com/src/javascript.svg)&nbsp;\
+![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=flat&logo=scikitlearn&logoColor=white)&nbsp;
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;\
+![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;
 ![Oculus](https://img.shields.io/badge/Oculus-black?&style=flat&logo=oculus&logoColor=#1C1E20)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?&style=flat&logo=android&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++%20-00599C?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=java&logoColor=white)&nbsp;\
 ![docker](https://aleen42.github.io/badges/src/docker.svg)
-![git](https://aleen42.github.io/badges/src/github.svg)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
