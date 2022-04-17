@@ -38,11 +38,11 @@
 ![Oculus](https://img.shields.io/badge/Oculus-black?&style=flat&logo=oculus&logoColor=#1C1E20)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?&style=flat&logo=android&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++%20-00599C?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=java&logoColor=white)&nbsp;\
+![Java](https://img.shields.io/badge/Java%20-007396?&style=flat&logo=java&logoColor=white)&nbsp;\
 ![docker](https://aleen42.github.io/badges/src/docker.svg)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![circleci](https://img.shields.io/badge/CircleCi-343434.svg?&style=flat&logo=circleci&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
