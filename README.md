@@ -32,6 +32,9 @@
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey.svg?&style=flat&logo=pytorch&logoColor=black)&nbsp;
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;\
+![Oculus](https://img.shields.io/badge/Oculus-black?&style=flat&logo=oculus&logoColor=#1C1E20)&nbsp;
+![Android](https://img.shields.io/badge/Android-lightgrey?&style=flat&logo=android&logoColor=#3DDC84)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=java&logoColor=white)&nbsp;
 ![docker](https://aleen42.github.io/badges/src/docker.svg)
 ![git](https://aleen42.github.io/badges/src/github.svg)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
