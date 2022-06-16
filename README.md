@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 Machine Learning Engineer, Co-Founder, **3+ years of experience in Data Science, 2+ years of US work experience**, and building Ai+XR applications one at a time 🚀
+- 🌟 Machine Learning Engineer, Co-Founder, **3+ years of experience in Data Science, 2+ years of wonderful US work experience**, and building Ai+XR applications one at a time 🚀
 - 🥇 **Software Engineering Accomplishments**: Developed end-to-end industrial Ai applications that reduce manual inspection costs in the factory. Cofounded startup as technical lead and built backend architecture & Ai algorithm
 - 🥇 **Achievements**: Completed Master's degree from **top US university**, secured a **percentile score of 99.2 in the IITJEE exam** and was admitted into IIT Kharagpur
 - 📌 **Skills**: Expertise in Machine Learning, Deep Learning, Computer Vision, Augmented Reality (AR), and Virtual Reality (VR). Proficient in Python, Tensorflow, AWS, Unity, C#, and Javascript
