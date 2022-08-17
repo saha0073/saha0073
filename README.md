@@ -23,11 +23,11 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++%20-00599C?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++%20-00599C?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![JS](https://badges.aleen42.com/src/javascript.svg)&nbsp;\
 ![Unity](https://img.shields.io/badge/-Unity-05122A?&style=flat&logo=unity&logoColor=white)&nbsp;
 ![Oculus](https://img.shields.io/badge/Oculus-black?&style=flat&logo=oculus&logoColor=#1C1E20)&nbsp;
