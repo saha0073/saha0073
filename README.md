@@ -8,10 +8,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 Machine Learning Engineer, Co-Founder, **3+ years of experience in Data Science, 2+ years of wonderful US work experience**, and building Ai+XR applications one at a time 🚀
-- 🥇 **Software Engineering Accomplishments**: Developed end-to-end industrial Ai applications that reduce manual inspection costs in the factory. Cofounded startup as technical lead and built backend architecture & Ai algorithm
-- 🥇 **Achievements**: Completed Master's degree from **top US university**, secured a **percentile score of 99.2 in the IITJEE exam** and was admitted into IIT Kharagpur
-- 📌 **Skills**: Expertise in Machine Learning, Deep Learning, Computer Vision, Augmented Reality (AR), and Virtual Reality (VR). Proficient in Python, Tensorflow, AWS, Unity, C#, and Javascript
+- 🌟 Software Engineer, Tech Co-Founder, 3+ years of wonderful US work experience, 3+ years of experience in software development, and building Metaverse applications one at a time 🚀
+- 🥇 **Software Engineering Accomplishments**: Developed end-to-end industrial Ai applications that reduce manual inspection costs in the factory. Cofounded startup as technical lead and built backend architecture & Ai
+- 🥇 **Achievements**: Completed Master's degree from top US university, secured a percentile score of 99.2 in the IITJEE exam and was admitted into IIT Kharagpur
+- 📌 **Skills**: Expertise in Multiplayer games, Augmented Reality (AR), Virtual Reality (VR), Machine Learning, and Computer Vision. Proficient in Unity, C#, Python, Tensorflow, AWS, Oculus Quest, and Javascript
 - 🌱 **Research**: Published 5 research papers, **100+ citations in Google Scholar** 🏅
 - 📧 You can reach out to me through email at **saha0073@umn.edu** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
 
