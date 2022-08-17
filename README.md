@@ -38,11 +38,10 @@
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=flat&logo=scikitlearn&logoColor=white)&nbsp;
-![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;\
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=flat&logo=scikitlearn&logoColor=white)&nbsp;\
 ![docker](https://aleen42.github.io/badges/src/docker.svg)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![circleci](https://img.shields.io/badge/CircleCi-343434.svg?&style=flat&logo=circleci&logoColor=white)&nbsp;
+![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
