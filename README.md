@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 Software Engineer, Tech Co-Founder, 3+ years of wonderful US work experience, 3+ years of experience in software development, and building Metaverse applications one at a time 🚀
+- 🌟 Software Engineer, Tech Co-Founder, **3+ years of wonderful US work experience**, 3+ years of experience in software development, and building Metaverse applications one at a time 🚀
 - 🥇 **Software Engineering Accomplishments**: Developed end-to-end industrial Ai applications that reduce manual inspection costs in the factory. Cofounded startup as technical lead and built backend architecture & Ai
 - 🥇 **Achievements**: Completed Master's degree from top US university, secured a percentile score of 99.2 in the IITJEE exam and was admitted into IIT Kharagpur
 - 📌 **Skills**: Expertise in Multiplayer games, Augmented Reality (AR), Virtual Reality (VR), Machine Learning, and Computer Vision. Proficient in Unity, C#, Python, Tensorflow, AWS, Oculus Quest, and Javascript
