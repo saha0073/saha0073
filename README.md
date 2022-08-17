@@ -39,6 +39,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?&style=flat&logo=android&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++%20-00599C?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![WebGL](https://img.shields.io/badge/WebGL-990000?&style=flat&logo=webgl&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/Blender-F5792A?&style=flat&logo=blender&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java%20-007396?&style=flat&logo=java&logoColor=white)&nbsp;\
 ![docker](https://aleen42.github.io/badges/src/docker.svg)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
