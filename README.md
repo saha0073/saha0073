@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 Software Engineer, have **3+ years of experience in software development, with **3+ years of wonderful US work experience**, and building Metaverse applications one at a time 🚀
+- 🌟 Software Engineer, have **3+ years of experience in software development, with 3+ years of wonderful US work experience**, and building Metaverse applications one at a time 🚀
 - 🥇 **Software Engineering Accomplishments**: Built multiplayer Metaverse from scratch, and integrated 10+ essential features. Developed end-to-end Ai software in Fortune 500 company that reduces manual inspection costs
 - 🥇 **Achievements**: Completed Master's degree from top US university, secured a percentile score of 99.2 in the IITJEE exam and was admitted into IIT Kharagpur
 - 📌 **Skills**: **Completed 15+ projects in Unity** in diverse areas comprising Augmented & Virtual Reality (AR/VR), Multiplayer, and Blockchain games. Proficient in Unity3D, C#, Python, AWS, Photon Multiplayer, and XR SDK
