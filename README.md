@@ -11,7 +11,7 @@
 - 🌟 Software Engineer, with **4+ years of experience in software development, and 3+ years of excellent US work experience**, building Games and Metaverse one at a time 🚀
 - 🥇 **Academics**: Completed MS degree from **Top 25 university of US**. Was admitted to IIT Kharagpur **(Top 10 university of India)**, securing a percentile score of 99.2 in the IITJEE exam.
 - 🥇 **Engineering Accomplishments**: Built Metaverse from scratch to facilitate E-commerce, integrated 10+ essential features. Developed multiplayer event modules for a web3 game, which is serving 30k daily active users.
-- 📌 **Skills**: **Finished 15+ projects in Unity & Unreal** in diverse areas such as Virtual Reality (VR), Multiplayer, and Web3 games. Proficient in C++ & C# (6+ years), Multiplayer and XR SDK.
+- 📌 **Skills**: **Finished 12+ projects in Unity & Unreal** in diverse areas such as Virtual Reality (VR), Multiplayer, and Web3 games. Proficient in C++ & C# (6+ years), Multiplayer and XR SDK.
 - 🌱 **Research**: Published 5 research papers, have **100+ citations in Google Scholar** 🏅
 - 📧 You can reach out to me through email at **saha0073@umn.edu** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
 
