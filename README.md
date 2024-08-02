@@ -8,12 +8,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟 Software Engineer with 5+ years of experience in software development, 2+ years of excellent experience in Fortune 500 companies in the US, and 2+ years of experience in working with top global startups.  🚀
-- 🥇 **Academics**: Completed MS degree from Top 25 university of US. Was admitted to IIT Kharagpur (Top 10 university of India), securing a percentile score of 99.2 in the IITJEE exam.
-- 🥇 **Engineering Accomplishments**: worked with Fortune 500 companies, AAA gaming studios, to Silicon Valley startups.
-- 📌 **Skills**: Finished 15+ projects spanning Virtual Reality (VR), Multiplayer, AAA, Generative AI, ChatBots, and Web3 games. Proficient in C++ & C# (6+ years), Python (6+ years), Langchain, Openai, Multiplayer, and Ai SDKs (Inworld, Convai).
-- 🌱 **Research**: Published 5 research papers, have **100+ citations in Google Scholar** 🏅
-- 📧 You can reach out to me through email at **saha0073@umn.edu** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
+- 🌟  Over the past five years, I have specialized in AI and software development, including deploying Generative AI and LLM solutions in production. I’ve worked with Fortune 500 companies, top global startups, and leading Silicon Valley firms. 🚀
+- 🥇 **Academics**: Earned an MS degree from the University of Minnesota Minneapolis, a top 25 US university, and completed undergraduate degree at IIT Kharagpur, a top 10 university in India.
+- 📌 **Technical Expertise**: Delivered 15+ projects spanning Gen AI, LLM agents, AI automation, ChatBots, Computer Vision, Virtual Reality (VR) and AAA Games. Proficient in Python (6+ years), C++, JavaScript, TensorFlow/ PyTorch, and LLM-based technologies including LangChain, OpenAI, RAG, and Llama.
+- 🌱 **Research**: Published 5 research papers, with 100+ citations as listed in [Google Scholar](https://scholar.google.com/citations?user=IXwrEsYAAAAJ&hl=en) 🏅
+- 📧 You can reach out to me through email at **subhodipsaha@gmail.com** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
 
 
 ### 🤝🏻 &nbsp;Connect with me: 
