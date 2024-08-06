@@ -35,8 +35,7 @@
 ![Oculus](https://img.shields.io/badge/Oculus-black?&style=flat&logo=oculus&logoColor=#1C1E20)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?&style=flat&logo=android&logoColor=white)&nbsp;
 ![Unreal](https://img.shields.io/badge/Unreal-0E1128?&style=flat&logo=unrealengine&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++%20-00599C?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
-![WebGL](https://img.shields.io/badge/WebGL-990000?&style=flat&logo=webgl&logoColor=white)&nbsp;\
+![C++](https://img.shields.io/badge/C++%20-00599C?&style=flat&logo=cplusplus&logoColor=white)&nbsp;\
 ![docker](https://aleen42.github.io/badges/src/docker.svg)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
