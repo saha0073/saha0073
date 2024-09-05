@@ -16,7 +16,9 @@
 
 
 ### 🤝🏻 &nbsp;Connect with me: 
-<a href="https://www.linkedin.com/in/subhodip-saha-li/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhodip-saha-li" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subhodip-saha-li/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="subhodip-saha-li" height="30" width="40" />
+</a>
 
 <img alt="Night Coding" src="https://github.com/saha0073/saha0073/blob/main/Night-Coding.gif" align="right"/>
 
