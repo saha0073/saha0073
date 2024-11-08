@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🌟  Over the past 5 years, I have specialized in AI and Machine Learning, including deploying GenAI and LLM solutions in production. I’ve worked with Fortune 500 companies, top global startups, and leading Silicon Valley firms. 🚀
-- 🥇 **Academics**: Earned MS degree from the University of Minnesota, a top 25 US university, admitted with a 100% tuition waiver. Completed undergraduate degree at IIT Kharagpur, a top 5 university in India, ranking among the top 10% in the department.
+- 🥇 **Academics**: Earned MS degree from the University of Minnesota, a top 25 US university, admitted with a 100% scholarship. Completed undergraduate degree at IIT Kharagpur, a top 5 university in India, ranking among the top 10% in the department.
 - 📌 **Technical Expertise**: Delivered 15+ projects across various domains, such as GenAI, LLM agents, AI automation, Computer Vision, NLP, Virtual Reality and chatbots in AAA Game. Proficient in Python (6+ yrs), C++, JS, TensorFlow/PyTorch, and LLM-based technologies including LangChain, OpenAI, RAG, and Llama.
 - 🌱 **Research**: Published 5 research papers, with 100+ citations as listed in [Google Scholar](https://scholar.google.com/citations?user=IXwrEsYAAAAJ&hl=en) 🏅
 - 📧 You can reach out to me through email at **subhodipsaha@gmail.com** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
