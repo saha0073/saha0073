@@ -77,6 +77,18 @@
     <td><img src="https://github.com/saha0073/Multi-Agent-Collaboration-Langgraph/blob/main/figures/cloud_computing_market_share.png" alt="GIF 2" width="200"/></td>
   </tr>
 </table>
+<be>
+
+### [Playing Flappy Bird with Reinforcement Learning](https://github.com/saha0073/Playing-Flappy-Bird-with-Reinforcement-Learning)
+**Description:**   Flappy Bird game project in which a neural network has been trained to play Flappy Bird game by itself using reinforcement learning (RL)
+
+**Tech Stack:** Reinforcement Learning, Python, C#, Unity ML-Agents
+<table>
+  <tr>
+    <td><img src="https://github.com/saha0073/Playing-Flappy-Bird-with-Reinforcement-Learning/blob/main/Recordings/ezgif.com-gif-maker.gif" alt="GIF 1" width="600"/></td>
+    <td><img src="https://github.com/saha0073/Playing-Flappy-Bird-with-Reinforcement-Learning/blob/main/Capture_211.PNG" alt="GIF 2" width="200"/></td>
+  </tr>
+</table>
 
 
 
