@@ -55,7 +55,7 @@
 </a>
 </p>
 
-### [Yolo Obejct Detection](https://github.com/saha0073/Yolov4-Object-Detection-and-UI-Code-for-Deployment)
+### [Yolo based Object Detection](https://github.com/saha0073/Yolov4-Object-Detection-and-UI-Code-for-Deployment)
 **Description:** This repo contains a wide range of custom functions & UI code for real-time detection & analysis of objects using YOLOv4
 
 **Tech Stack:** OpenCV, Convolutional Neural Networks (CNNs), Pytorch, Computer Vision
@@ -65,6 +65,18 @@
     <td><img src="https://github.com/saha0073/Yolov4-Object-Detection-and-UI-Code-for-Deployment/blob/main/saved_detections/ui.png" alt="GIF 2" width="200"/></td>
   </tr>
 </table>
-<br>
+<be>
+
+### [Multi-Agent collaboration with Langgraph](https://github.com/saha0073/Multi-Agent-Collaboration-Langgraph)
+**Description:**  An end-to-end multi-agent system built with LangGraph that combines research and visualization capabilities
+
+**Tech Stack:** Python, Streamlit, Langgraph, Multi-Agent, Tavily
+<table>
+  <tr>
+    <td><img src="https://github.com/saha0073/Multi-Agent-Collaboration-Langgraph/blob/main/figures/multi-agent-720p-1-with-captions-MadewithClipchamp1-ezgif-optimize.gif" alt="GIF 1" width="600"/></td>
+    <td><img src="https://github.com/saha0073/Multi-Agent-Collaboration-Langgraph/blob/main/figures/cloud_computing_market_share.png" alt="GIF 2" width="200"/></td>
+  </tr>
+</table>
+
 
 
