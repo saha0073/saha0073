@@ -8,9 +8,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌟  Over the past 5 years, I have specialized in AI and Machine Learning, building scalable solutions in production with expertise in computer vision, image & data analysis, autonomous systems, and GenAI, with robust backend development. I’ve worked with Fortune 500 companies, leading startups, including 3 years of work experience in the US.  🚀
-- 🥇 **Academics**: Earned MS degree from the University of Minnesota, a top 25 US university, admitted with a 100% scholarship. Completed undergraduate degree at IIT Kharagpur, a top 5 university in India, ranking among the top 10% in the department.
-- 📌 **Technical Expertise**: Designed and deployed AI systems with computer vision, image & data analysis, autonomous systems, reinforcement learning, and backend infrastructure alongside experience in LLMs and GenAI. Proficient in Python, C#/C++, TensorFlow/PyTorch, LangChain, Agents, OpenCV, ROS, and AirSim.
+- 🌟  Senior AI Engineer with 5+ years specializing in AI and machine learning building scalable solutions on computer vision, autonomous system, GenAI and robotics perception solutions in production with major enterprise clients. I’ve worked with Fortune 500 companies (Seagate), unicorn startups (Dexterity, Seedify),including 3 years of work exp in US.   🚀
+- 🥇 **Academics**: Academics: Earned MS degree from the University of Minnesota, a top 25 US university, admitted with a 100% scholarship. Completed undergraduate degree at IIT Kharagpur, a top 5 university in India, ranking among the top 10% in the department.
+- 📌 **Technical Expertise**: Technical Expertise: Designed and deployed 10+ AI systems in production with computer vision, robotics perception, autonomous systems, and GenAI. Proficient in Python/C++, PyTorch, LLM/Agents, CNN/ViT, VLM/VLA, Lerobot, Nvidia Isaac and geospatial imaging.
 - 🌱 **Research**: Published 5 research papers, with 100+ citations as listed in [Google Scholar](https://scholar.google.com/citations?user=IXwrEsYAAAAJ&hl=en) 🏅
 - 📧 I can be reached through email at **subhodipsaha@gmail.com** or connect in [Linkedin](https://www.linkedin.com/in/subhodip-saha-li/)
 
